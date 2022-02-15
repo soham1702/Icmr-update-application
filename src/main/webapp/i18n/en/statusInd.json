@@ -1,0 +1,10 @@
+{
+  "icmrDailyCountUpdationApp": {
+    "StatusInd": {
+      "null": "",
+      "A": "Active",
+      "I": "Inactive",
+      "D": "Deleted"
+    }
+  }
+}
